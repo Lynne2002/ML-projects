@@ -1,0 +1,3 @@
+[submodule "nltk_synset"]
+	path = nltk_synset
+	url = https://github.com/Lynne2002/nltk_synset
